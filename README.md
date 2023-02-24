@@ -47,6 +47,12 @@
 
 可以去[friends.html](./friends.html)文件查看实例!
 
+### 有问题
+
+如果你发现这个项目中某一条链接侵犯了您的合法权益，请去[issue](https://github.com/ZiChenStudio/FriendLinkRepos/issues)告知我，我会及时删除并道歉！
+
+如果出现其他问题请去[issue](https://github.com/ZiChenStudio/FriendLinkRepos/issues)界面告知我，我会及时处理！！
+
 ### 注意事项
 
 **请不要删除他人已经添加的链接！**
