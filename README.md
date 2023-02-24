@@ -31,12 +31,12 @@
 
 你可以使用html标签加入颜色，可以让你的链接更显眼！
 
-请不要使用h1，h2等标签，请使用p标签+span标签！
+请不要使用h1，h2，p等标签，请使用li标签+span标签！
 
 ### 书写模板
 
 ```
-<p><span style="color: #f00"><a href="https://" target="_blank">你网站的名字</a></span>:你网站的描述(可选)</p>
+<li><span style="color: #f00"><a href="https://" target="_blank">你网站的名字</a></span>:你网站的描述(可选)</li>
 ```
 
 可以去[friends.html](./friends.html)文件查看实例!
